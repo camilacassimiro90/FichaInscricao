@@ -1,1 +1,1 @@
-﻿namespace fichaDeInscricao;
+﻿namespace FichaDeInscricao;
