@@ -1,0 +1,15 @@
+\\servidor\dados\OneDrive\Camila\Senai-Curso\fichaDeInscricao\obj\Debug\net6.0\fichaDeInscricao.csproj.AssemblyReference.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\fichaDeInscricao\obj\Debug\net6.0\fichaDeInscricao.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\dados\OneDrive\Camila\Senai-Curso\fichaDeInscricao\obj\Debug\net6.0\fichaDeInscricao.AssemblyInfoInputs.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\fichaDeInscricao\obj\Debug\net6.0\fichaDeInscricao.AssemblyInfo.cs
+\\servidor\dados\OneDrive\Camila\Senai-Curso\fichaDeInscricao\obj\Debug\net6.0\fichaDeInscricao.csproj.CoreCompileInputs.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\bin\Debug\net6.0\FichaDeInscricao.exe
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\bin\Debug\net6.0\FichaDeInscricao.deps.json
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\bin\Debug\net6.0\FichaDeInscricao.runtimeconfig.json
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\bin\Debug\net6.0\FichaDeInscricao.dll
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\bin\Debug\net6.0\FichaDeInscricao.pdb
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\obj\Debug\net6.0\FichaDeInscricao.dll
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\obj\Debug\net6.0\refint\FichaDeInscricao.dll
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\obj\Debug\net6.0\FichaDeInscricao.pdb
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\obj\Debug\net6.0\FichaDeInscricao.genruntimeconfig.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\FichaDeInscricao\obj\Debug\net6.0\ref\FichaDeInscricao.dll

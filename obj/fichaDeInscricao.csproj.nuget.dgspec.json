@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\fichaDeInscricao\\fichaDeInscricao.csproj": {}
+    "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\FichaDeInscricao.csproj": {}
   },
   "projects": {
-    "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\fichaDeInscricao\\fichaDeInscricao.csproj": {
+    "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\FichaDeInscricao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\fichaDeInscricao\\fichaDeInscricao.csproj",
-        "projectName": "fichaDeInscricao",
-        "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\fichaDeInscricao\\fichaDeInscricao.csproj",
+        "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\FichaDeInscricao.csproj",
+        "projectName": "FichaDeInscricao",
+        "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\FichaDeInscricao.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\fichaDeInscricao\\obj\\",
+        "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
