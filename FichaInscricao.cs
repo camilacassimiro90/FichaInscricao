@@ -1,5 +1,4 @@
 namespace FichaDeInscricao;
-
 //CLASSE
 public class FichaInscricao
 {
