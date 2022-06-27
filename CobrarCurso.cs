@@ -11,21 +11,21 @@ public class CobrarCurso
   //CONSTRUTOR
   public CobrarCurso(decimal valorCurso, decimal valorMulta, decimal valorDesconto)
   {
-    this.ValorCurso = valorCurso;
-    this.ValorMulta = valorMulta;
-    this.ValorDesconto = valorDesconto;
-    this.Resultado = this.Calcular(valorCurso, valorMulta, valorDesconto);
+    ValorCurso = valorCurso;
+    ValorMulta = valorMulta;
+    ValorDesconto = valorDesconto;
+    Resultado = this.Calcular(valorCurso, valorMulta, valorDesconto);
   }
   //MÉTODO
   private decimal Calcular(decimal valorCurso, decimal valorMulta, decimal valorDesconto)
   {
-    if (this.ValorMulta > 0)
+    if (ValorMulta > 0)
     {
-      return this.ValorCurso + this.ValorMulta;
+      return ValorCurso + ValorMulta;
     }
     else
     {
-      return this.ValorCurso - this.ValorDesconto;
+      return ValorCurso - ValorDesconto;
     }
 
   }
