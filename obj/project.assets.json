@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Camila\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Camila\\Documents\\Devinhouse\\FichaInscricao\\fichaDeInscricao.csproj",
-      "projectName": "fichaDeInscricao",
-      "projectPath": "C:\\Users\\Camila\\Documents\\Devinhouse\\FichaInscricao\\fichaDeInscricao.csproj",
-      "packagesPath": "C:\\Users\\Camila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Camila\\Documents\\Devinhouse\\FichaInscricao\\obj\\",
+      "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\FichaDeInscricao.csproj",
+      "projectName": "FichaDeInscricao",
+      "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\FichaDeInscricao.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\FichaDeInscricao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Camila\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

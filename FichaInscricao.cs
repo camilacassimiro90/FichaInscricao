@@ -33,5 +33,4 @@ public class FichaInscricao
       idade = idade - 1;
     return idade;
   }
-
 }
