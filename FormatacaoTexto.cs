@@ -1,5 +1,4 @@
 namespace FichaDeInscricao;
-
 public static class FormatacaoTexto
 {
   public static string Formatacao(string nome, string curso, decimal valorCurso)
