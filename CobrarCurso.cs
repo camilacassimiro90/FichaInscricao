@@ -6,16 +6,18 @@ public class CobrarCurso
   private decimal ValorMulta;
   private decimal ValorDesconto;
 
+  private decimal Resultado;
+
   //CONSTRUTOR
   public CobrarCurso(decimal valorCurso, decimal valorMulta, decimal valorDesconto)
   {
     this.ValorCurso = valorCurso;
     this.ValorMulta = valorMulta;
     this.ValorDesconto = valorDesconto;
+    this.Resultado = this.Calcular(valorCurso, valorMulta, valorDesconto);
   }
-
   //MÉTODO
-  private decimal Calculo(decimal valorCurso, decimal valorMulta, decimal valorDesconto)
+  private decimal Calcular(decimal valorCurso, decimal valorMulta, decimal valorDesconto)
   {
     if (this.ValorMulta > 0)
     {
