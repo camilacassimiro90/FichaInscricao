@@ -14,7 +14,7 @@ public class CobrarCurso
     ValorCurso = valorCurso;
     ValorMulta = valorMulta;
     ValorDesconto = valorDesconto;
-    Resultado = this.Calcular(valorCurso, valorMulta, valorDesconto);
+    Resultado = Calcular(valorCurso, valorMulta, valorDesconto);
   }
   //MÉTODO
   private decimal Calcular(decimal valorCurso, decimal valorMulta, decimal valorDesconto)
