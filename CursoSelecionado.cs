@@ -1,6 +1,8 @@
+using FichaDeInscricao;
 namespace FichaDeInscricao;
 
-internal class CursoSelecionado
+
+public class CursoSelecionado
 {
   public IList<FichaInscricao> Cursos { get; set; }
 

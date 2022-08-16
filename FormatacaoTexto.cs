@@ -1,14 +1,14 @@
 namespace FichaDeInscricao;
 public static class FormatacaoTexto
 {
-  public static string Formatacao(string nome, string curso, decimal valorCurso)
+  public static string Formatacao(string? nome, string? curso, decimal valorCurso)
   {
     return
      @$"Nome: {nome}
 Curso: {curso}
 Valor do curso: {valorCurso}";
   }
-  public static string Formatacao(string nome, string curso, decimal valorCurso, decimal valorDesconto)
+  public static string Formatacao(string? nome, string? curso, decimal valorCurso, decimal valorDesconto)
   {
     return
   @$"Nome: {nome}
@@ -16,7 +16,7 @@ Curso: {curso}
 Valor do curso: {valorCurso}
 Valor do desconto: {valorDesconto}";
   }
-  public static string Formatacao(string nome, string curso, decimal valorCurso, decimal valorDesconto, int idade)
+  public static string Formatacao(string? nome, string? curso, decimal valorCurso, decimal valorDesconto, int idade, decimal resultado)
   {
     return
     @$"Nome: {nome}

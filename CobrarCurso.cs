@@ -5,8 +5,7 @@ public class CobrarCurso
   private decimal ValorCurso;
   private decimal ValorMulta;
   private decimal ValorDesconto;
-
-  private decimal Resultado;
+  public decimal Resultado;
 
   //CONSTRUTOR
   public CobrarCurso(decimal valorCurso, decimal valorMulta, decimal valorDesconto)

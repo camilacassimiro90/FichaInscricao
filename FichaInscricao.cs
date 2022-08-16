@@ -1,11 +1,12 @@
+using FichaDeInscricao;
 namespace FichaDeInscricao;
 //CLASSE
 public class FichaInscricao
 {
-  public string Nome { get; set; }
+  public string? Nome { get; set; }
   public int Idade { get; set; }
-  public string Curso { get; set; }
-  public string Escolaridade { get; set; }
+  public string? Curso { get; set; }
+  public string? Escolaridade { get; set; }
   public DateTime DataNascimento { get; set; }
   public decimal ValorCurso { get; set; }
   public decimal ValorDesconto { get; set; }
